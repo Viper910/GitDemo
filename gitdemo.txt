@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Line changed by main
-=======
 Line changed by branchB
 >>>>>>> branchB
